@@ -44,6 +44,8 @@ public enum ReplySettings {
   MENTIONEDUSERS("mentionedUsers"),
   
   FOLLOWING("following"),
+
+  VERIFIED("verified"),
   
   OTHER("other");
 
