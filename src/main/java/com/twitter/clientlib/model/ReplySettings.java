@@ -46,6 +46,8 @@ public enum ReplySettings {
   FOLLOWING("following"),
 
   VERIFIED("verified"),
+
+  SUBSCRIBERS("subscribers"),
   
   OTHER("other");
 
